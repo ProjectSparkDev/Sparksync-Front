@@ -75,7 +75,7 @@
 							Github
 							<i class="fab fa-github"></i>
 						</a>
-						<a href="https://discord.gg/yUAg9KmpkC" class="me-4 text-reset">
+						<a href="https://discord.gg/zGGpFp8fSm" class="me-4 text-reset">
 							Discord
 							<i class="fab fa-discord"></i>
 						</a>
