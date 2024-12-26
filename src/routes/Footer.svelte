@@ -96,7 +96,7 @@
 	<div class="text-center p-4" style="background-color: #3d3d3d; color: #ffffff;">
 		<p>
 			<small>
-				@Tuxuser🐧 and @Soltinator🧯 , Made with Rust🦀 and MDBootstrap🥾<br />
+				@Tuxuser🐧 and @Soltinator🧯 , Made with Rust🦀 and Sveltestrap🩷<br />
 				this project is not affiliated with project spark, dakota team and microsoft. all of their repective
 				rights are reserved.
 			</small>
